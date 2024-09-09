@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KazerGhost
+- 👋 Hi, I’m Kasper
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning python, Javascript, C# and 
 
